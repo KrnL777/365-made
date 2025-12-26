@@ -1,6 +1,4 @@
 
-!(https://github.com/user-attachments/assets/84a77f23-b915-4ee6-ac83-e052afdeae9e)
-
 ---
 
 ## 📌 Code — 365 feitos (por categoria)
@@ -15,4 +13,5 @@
 ## 🧪 Labs — 365 feitos (por categoria)
 - **HTB**: 0/365
 - **Rev**: 0/365
+
 
